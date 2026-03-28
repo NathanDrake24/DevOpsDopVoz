@@ -12,10 +12,14 @@
 ## Задание 1: Вывод логов в файл
 
 
+<img width="438" height="408" alt="image" src="https://github.com/user-attachments/assets/55d102fc-92b0-4772-85de-433952bdffe2" />
+
+
 
 
 ## Задание 2: Проверка docker-stats
 
+<img width="952" height="70" alt="image" src="https://github.com/user-attachments/assets/1ad4cf3f-96be-420d-87e8-b9ae66069698" />
 
 
 ---
@@ -24,6 +28,7 @@
 
 ## Задание 3: Ограничение ресурсов
 
+<img width="891" height="306" alt="image" src="https://github.com/user-attachments/assets/3a9ed27c-e536-498c-9fcf-8afe6d828070" />
 
 
 ---
@@ -34,12 +39,14 @@
 
 
 
+<img width="826" height="460" alt="image" src="https://github.com/user-attachments/assets/5528af83-616f-4112-aac6-ecbab6090e9f" />
 
 ---
 
 
 ## Задание 5: Импорт из tar
 
+<img width="970" height="491" alt="image" src="https://github.com/user-attachments/assets/cc448f23-ff9d-4177-9ea2-c3953b6baff2" />
 
 
 ---
